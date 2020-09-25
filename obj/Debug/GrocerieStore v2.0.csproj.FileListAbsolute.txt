@@ -1,0 +1,25 @@
+D:\franc\WPF Projects\GrocerieStore v2.0\bin\Debug\GrocerieStore v2.0.exe.config
+D:\franc\WPF Projects\GrocerieStore v2.0\bin\Debug\GrocerieStore v2.0.exe
+D:\franc\WPF Projects\GrocerieStore v2.0\bin\Debug\GrocerieStore v2.0.pdb
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\GrocerieStore v2.0.csprojAssemblyReference.cache
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\MainWindow.g.cs
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\App.g.cs
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\GrocerieStore v2.0_MarkupCompile.cache
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\GrocerieStore v2.0_MarkupCompile.lref
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\MainWindow.baml
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\GrocerieStore v2.0.g.resources
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\GrocerieStore_v2._0.Properties.Resources.resources
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\GrocerieStore v2.0.csproj.GenerateResource.cache
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\GrocerieStore v2.0.csproj.CoreCompileInputs.cache
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\GrocerieStore v2.0.exe
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\GrocerieStore v2.0.pdb
+D:\franc\WPF Projects\GrocerieStore v2.0\bin\Debug\MaterialDesignColors.dll
+D:\franc\WPF Projects\GrocerieStore v2.0\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\franc\WPF Projects\GrocerieStore v2.0\bin\Debug\MaterialDesignColors.pdb
+D:\franc\WPF Projects\GrocerieStore v2.0\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\franc\WPF Projects\GrocerieStore v2.0\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\GrocerieStore v2.0.csproj.CopyComplete
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\NewProduct.g.cs
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\NewProduct.baml
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\EditProduct.g.cs
+D:\franc\WPF Projects\GrocerieStore v2.0\obj\Debug\EditProduct.baml
